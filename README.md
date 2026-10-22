@@ -8,7 +8,7 @@
 
 | 프로젝트 | 한 줄 소개 |
 |---|---|
-| [kr-swing-lgbm](https://github.com/afafcalif/kr-swing-lgbm) | 국내 주식 스윙 종목 선택 LightGBM 모델의 개발·검증 기록. 판정 기준을 결과 전에 고정(사전 등록)하고 무작위 200회 대조, 미래 정보 누출 점검, 전진 검증 등록으로 확인. 키움 REST API·한국거래소 데이터를 쓰고, 일봉에 장 마감 후 가격이 섞인 오염을 찾아 보정 |
+| [kr-swing-lgbm](https://github.com/afafcalif/kr-swing-lgbm) | 국내 주식 스윙 LightGBM 종목 선택 모델 — 결과를 보기 전에 판정 기준을 고정하고 무작위 대조·누출 점검·전진 검증으로 확인 |
 | [minishell](https://github.com/afafcalif/minishell) | bash의 동작을 재현한 셸 — 파이프, 리다이렉션, heredoc, 시그널 처리 (2인 팀) |
 | [cub3D](https://github.com/afafcalif/cub3D) | DDA 레이캐스팅 기반 3D 렌더링 엔진 (2인 팀) |
 | [philosopher](https://github.com/afafcalif/philosopher) | 식사하는 철학자 — pthread, 뮤텍스, 데이터 레이스 없는 동시성 제어 |
