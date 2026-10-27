@@ -19,4 +19,4 @@ Windows 커널 드라이버 위에서 AMD-V(SVM) 하드웨어 가상화를 다�
 
 ## 기술
 
-`C` `C++` `x64 Assembly` `Linux` `Windows Kernel Driver` `AMD-V(SVM)` `pthread` `Make` `Git` `Python` `pandas` `LightGBM` `REST API`
+`C` `C++` `Linux` `pthread` `Make` `Git` `Python` `pandas` `LightGBM` `REST API`
